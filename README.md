@@ -15,6 +15,10 @@
 ## Linguagens de Programação:
 [![My Skills](https://skillicons.dev/icons?i=javascript,python,c,mysql&theme=light)](https://skillicons.dev)<br><br>
 
+
+![3d6ae630314211 561d5c265a835](https://github.com/user-attachments/assets/e67d853c-e9c1-482c-8ecb-3223cd0abd71)
+
+
 <!--
 **Kay-Vogas/Kay-Vogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
