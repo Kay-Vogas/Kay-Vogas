@@ -1,6 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77BE8&width=435&lines=Hello+world%2C)](https://git.io/typing-svg)
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=700&size=23&pause=1000&color=F791EB&center=true&width=436&lines=%3CHello+World%2F%3E+Eu+sou+o+Kay." alt="Typing SVG" /></a>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77BE8&width=435&lines=eu+sou+Kayke+Vogas.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=800&size=20&pause=1000&color=F791EB&center=true&width=436&lines=Seja+Bem-vindo(a)!!" alt="Typing SVG" /></a>
+</h1>
+
+<p align="center">
+  🖥️Programador em Desenvolvimento.🖥️
+</p><br>
+
+-💻2º Período em Sistemas de Informação; <br>
+-🎲Dev. Back-end (área de dados).
 <!--
 **Kay-Vogas/Kay-Vogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
