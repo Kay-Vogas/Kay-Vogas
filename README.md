@@ -1,7 +1,7 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=700&size=23&pause=1000&color=FFFFFF&center=true&width=436&lines=%3CHello+World%2F%3E+Eu+sou+o+Kay." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=700&size=23&pause=1000&color=FF58AE&center=true&width=436&lines=%3CHello+World%2F%3E+Eu+sou+o+Kay." alt="Typing SVG" /></a>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=800&size=20&pause=1000&color=FFFFFF&center=true&width=436&lines=Seja+Bem-vindo(a)!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monocraft&weight=800&size=20&pause=1000&color=FF58AE&center=true&width=436&lines=Seja+Bem-vindo(a)!!" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
