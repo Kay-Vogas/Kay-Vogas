@@ -8,7 +8,7 @@
   🖥️Programador em Desenvolvimento.🖥️
 </p><br>
 
--💻2º Período em Sistemas de Informação; <br>
+-💻3º Período em Sistemas de Informação; <br>
 -🎲Dev. Back-end (área de dados).
 <br>
 
