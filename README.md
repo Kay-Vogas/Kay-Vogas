@@ -9,7 +9,7 @@
 </p><br>
 
 -💻3º Período em Sistemas de Informação; <br>
--🎲Dev. Back-end (área de dados).
+-🎲Dev. Back-end.
 <br>
 
 ## Linguagens de Programação:
