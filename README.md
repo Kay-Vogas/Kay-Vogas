@@ -13,7 +13,7 @@
 <br>
 
 ## Linguagens de Programação:
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,c,mysqltheme=light)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,c,mysql&theme=light)](https://skillicons.dev)<br><br>
 
 
 
