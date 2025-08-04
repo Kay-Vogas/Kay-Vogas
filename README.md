@@ -18,11 +18,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,c&theme=dark)](https://skillicons.dev)<br><br>
 
 ## Bancos de Dados Relacionais:
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres=dark)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)<br><br>
 
 ## Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,postman,idea,=dark)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,postman,idea,&theme=dark)](https://skillicons.dev)<br><br>
 <!--
 **Kay-Vogas/Kay-Vogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
