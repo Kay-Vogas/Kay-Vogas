@@ -8,17 +8,16 @@
   💾 Programador em Desenvolvimento.💾
 </p><br>
 
-
-
 - 📚4º Período em Sistemas de Informação; <br>
 - 🎲Dev. Back-end.
 - 🎨Design
+- 
 <br> 
-## Linguagens de Programação:
+##Linguagens de Programação:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,c&theme=dark)](https://skillicons.dev)<br><br>
-## Bancos de Dados Relacionais:
+##Bancos de Dados Relacionais:
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)<br><br>
-## Ferramentas:
+##Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,postman,idea,&theme=dark)](https://skillicons.dev)<br><br>
 <!--
 **Kay-Vogas/Kay-Vogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
