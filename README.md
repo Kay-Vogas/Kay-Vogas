@@ -20,7 +20,10 @@
 
 ## 🔧Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,postman,idea,&theme=dark)](https://skillicons.dev)<br><br>
-<!--
+
+![Kay-Vogas GitHub stats](https://github-readme-stats.vercel.app/api?username=Kay-Vogas&show_icons=true&theme=radical) 
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Vogas&layout=compact&theme=radical)
 **Kay-Vogas/Kay-Vogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
