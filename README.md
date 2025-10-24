@@ -8,7 +8,7 @@
   💾 Programador em Desenvolvimento. 💾
 </p><br>
 
-- 📚4º Período em Sistemas de Informação; <br>
+- 📚5º Período em Sistemas de Informação; <br>
 - 📟Dev. Back-end.
 - 🎨Design<br>
   
