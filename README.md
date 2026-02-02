@@ -10,7 +10,6 @@
 
 - 📚5º Período em Ciência da Computação; <br>
 - 📟Dev. Back-end.
-- 🎨Design<br>
   
 ## 💻Linguagens de Programação:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,c&theme=dark)](https://skillicons.dev)<br><br>
