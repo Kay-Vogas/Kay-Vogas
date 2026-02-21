@@ -20,7 +20,14 @@
 ## 🔧Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,postman,idea,&theme=dark)](https://skillicons.dev)<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Vogas&layout=compact&theme=radical)
+<!--!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Vogas&layout=compact&theme=radical)-->
+
+┌ Languages ──────────────────── ┐
+│ Java       █████░░░░░░░  45.5% │
+│ HTML       ███░░░░░░░░░  25.0% │
+│ CSS        ██░░░░░░░░░░  20.8% │
+│ JavaScript █░░░░░░░░░░░   8.7% │
+└────────────────────────────────┘
 
 <!--![Kay-Vogas GitHub stats](https://github-readme-stats.vercel.app/api?username=Kay-Vogas&show_icons=true&theme=radical) 
 **Kay-Vogas/Kay-Vogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
