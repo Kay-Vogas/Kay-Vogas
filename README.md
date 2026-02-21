@@ -23,8 +23,8 @@
 <!--!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Vogas&layout=compact&theme=radical)-->
 
 ┌ Languages ──────────────────── ┐<br>
-│ Java       █████░░░░░░░  45.5% │<br>
-│ HTML       ███░░░░░░░░░  25.0% │<br>
+<br>│ Java       █████░░░░░░░  45.5% │
+<br>│ HTML       ███░░░░░░░░░  25.0% │<br>
 │ CSS        ██░░░░░░░░░░  20.8% │<br>
 │ JavaScript █░░░░░░░░░░░   8.7% │<br>
 └────────────────────────────────┘<br>
